@@ -9,3 +9,4 @@ So what do you need to run it?
 A Linux system with Python 3.X installed. I did it with a Raspberry Pi 3.
 Make sure the path home/$user/Projekte/Wohnungsanmeldungstermin/Rohdaten/ exists.
 And of course, if you'd like to receive a Push Notification, make sure to have the app Prowl installed and retreive the necessary token.
+pyprowl, requests, os and datetime musst be installed in Python.
